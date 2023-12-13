@@ -1,0 +1,97 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTUxNjIzOTAyMiwieHAiOjE1MTYyMzkwMjIsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODg4OC9hdXRoIiwibmJmIjoxNTE2MjM5MDIyLCJmaXJzdG5hbWUiOiJNb2hhbWVkIiwibGFzdG5hbWUiOiJCRU5NQUtITE9VRiIsImVtYWlsIjoiYmVubWFraGxvdWZAZ21haWwuY29tIiwicm9sZXMiOlsiVVNFUiJdfQ.V1IlZ3WS7ahQGzI3M68DkBEIBIr5Fy6AARg3b7EC9HY"
+    },
+    {
+      "id": "user2",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMiIsImlhdCI6MTUxNjIzOTAyMiwieHAiOjE1MTYyMzkwMjIsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODg4OC9hdXRoIiwibmJmIjoxNTE2MjM5MDIyLCJmaXJzdG5hbWUiOiJNb2hhbWVkIiwibGFzdG5hbWUiOiJCRU5NQUtITE9VRiIsImVtYWlsIjoiYmVubWFraGxvdWZAZ21haWwuY29tIiwicm9sZXMiOlsiVVNFUiJdfQ.lZX4EiyKjMQeWrYbbufaIitoAYnoffst8GIXf18m9pc"
+    },
+    {
+      "id": "admin",
+      "password": "MTIzNA==",
+      "roles": [
+        "ADMIN",
+        "USER"
+      ],
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTUxNjIzOTAyMiwieHAiOjE1MTYyMzkwMjIsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODg4OC9hdXRoIiwibmJmIjoxNTE2MjM5MDIyLCJmaXJzdG5hbWUiOiJNb2hhbWVkIiwibGFzdG5hbWUiOiJCRU5NQUtITE9VRiIsImVtYWlsIjoiYmVubWFraGxvdWZAZ21haWwuY29tIiwicm9sZXMiOlsiVVNFUiJdfQ.CifspDHNYu9v34IhPOmc9QcgwO2ZbugHFECslqtnSpY"
+    }
+  ],
+  "products": [
+    {
+      "name": "Smart 67",
+      "price": "4500",
+      "checked": true,
+      "id": 5
+    },
+    {
+      "name": "a",
+      "price": 0,
+      "checked": false,
+      "id": 16
+    },
+    {
+      "name": "mmmm",
+      "price": 0,
+      "checked": false,
+      "id": 17
+    },
+    {
+      "name": "phone",
+      "price": "2000",
+      "checked": true,
+      "id": 18
+    },
+    {
+      "name": "iphone",
+      "price": "10000",
+      "checked": true,
+      "id": 19
+    },
+    {
+      "name": "SAMSUNG",
+      "price": 0,
+      "checked": false,
+      "id": 20
+    },
+    {
+      "name": "Laptop",
+      "price": "1200",
+      "checked": true,
+      "id": 21
+    },
+    {
+      "name": "Smartwatch",
+      "price": "300",
+      "checked": false,
+      "id": 22
+    },
+    {
+      "name": "Camera",
+      "price": "800",
+      "checked": true,
+      "id": 23
+    },
+    {
+      "name": "Headphones",
+      "price": "150",
+      "checked": false,
+      "id": 24
+    },
+    {
+      "name": "Tablet",
+      "price": "500",
+      "checked": true,
+      "id": 25
+    }
+  ]
+}
